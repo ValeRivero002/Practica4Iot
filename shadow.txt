@@ -1,0 +1,11 @@
+{
+  "state": {
+    "desired": {
+      "dispenser_state": "open"/"closed"
+    },
+    "reported": {
+      "dispenser_state": "open"/"closed" 
+      "weight" : "nothing"/ "little"/ "enough"/"overflowing"
+    }
+  }
+}
